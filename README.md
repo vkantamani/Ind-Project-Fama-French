@@ -1,4 +1,4 @@
-(Independent Project)
+(CU Independent Project)
 
 Analyzing the Fama-French Five-Factor Model - Implications of Low-Volatility and Momentum Factors in Extending the Capital Asset Pricing Model (CAPM)
 
