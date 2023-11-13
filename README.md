@@ -1,6 +1,6 @@
 (CU Independent Project)
 
-Analyzing the Fama-French Five-Factor Model - Implications of Low-Volatility and Momentum Factors in Extending the Capital Asset Pricing Model (CAPM)
+Analyzing the Fama-French Five-Factor Model: Implications of Low-Volatility and Momentum Factors in Extending the Capital Asset Pricing Model (CAPM)
 
 In 1993, Fama and French introduced their three-factor model designed to augment the capital asset pricing model (CAPM). To characterize asset returns, their framework specifies the existence of size and value risk premiums, the small-minus-big (SMB) and high-minus-low (HML) factors, arguing that these factors captured a dimension of systematic risk beyond the market beta specified by the CAPM. Since the inception of the Fama-French three-factor model, it has become standard practice to report 3-factor alphas in asset pricing literature.
 
